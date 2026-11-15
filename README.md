@@ -1,4 +1,4 @@
-# Algorithmic Problem Solving
+# Projeto de Análise de Algoritmos
 
 Coleção de soluções em C++ para problemas clássicos de algoritmos e
 estruturas de dados. O repositório demonstra a aplicação prática de
